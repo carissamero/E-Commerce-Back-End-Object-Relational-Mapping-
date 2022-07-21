@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "dotenv": "^16.0.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "sequelize": "^6.21.3"
   },
   "name": "e-commerce-back-end-object-relational-mapping-",
   "description": "![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
