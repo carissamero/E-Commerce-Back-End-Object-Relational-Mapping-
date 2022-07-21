@@ -23,6 +23,10 @@ The focus of this homework assignment for the University of Texas Austin Coding 
 - API GET routes for categories, products, or tags will result in the data being displayed in formatted JSON
 - API POST, PUT, and DELETE routes will create, update, and delete data in the database
 
+## Walkthrough Video
+
+(couldn't get walkthrough video working)
+
 ## Screenshots
 
 The images below show aspects of the application including output received from Insomnia when running different routes and an image of one of the mySQL tables.
